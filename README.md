@@ -39,7 +39,10 @@ Sistema para organizar ordens de serviço, equipes técnicas e distribuição de
 
 | Projeto | Proposta | Etapa |
 | --- | --- | --- |
+| [Automação de planilhas](https://github.com/Diogocvlh/automacao-planilhas) | Python, Selenium e Google Sheets, com configuração por ambiente e testes offline. | Protótipo de integração; exige acessos autorizados para execução externa. |
 | [API de geração de imagens](https://github.com/Diogocvlh/ai-image-generator-api) | Experimento de API em Python com FastAPI, PyTorch e Diffusers para geração de imagens com execução em GPU. | Experimental; requisitos e limitações descritos no repositório. |
+| [Dashboard financeiro](https://github.com/Diogocvlh/elegant-financial-dashboard) | Interface em React e TypeScript, com gráficos e dados fictícios. | Protótipo visual; não possui backend nem integração bancária. |
+| [Portfólio pessoal](https://github.com/Diogocvlh/portifoliodiogocvlh) | Apresentação, tecnologias e projetos em React, TypeScript e Tailwind CSS. | Frontend estático com instruções de execução e CI. |
 
 ## O que estou aprimorando
 
